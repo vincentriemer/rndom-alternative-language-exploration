@@ -7,7 +7,7 @@ This is a small project for evaluating differently languages that can either be 
 ### KeyframeGenerator
 
 - JS - Complete
-- Reason - Partial
+- Reason - Partial (missing spring generator)
 - Rust/WASM - Not Started
 
 ### LayoutAnimationManager
