@@ -1,6 +1,6 @@
 # React Native DOM Alternative Language Exploration
 
-This is a small project for evaluating different languages that can either be run on the web or simple compile to JS for adoption in react-native-dom's core. The module being rewritten for this evalutation is `LayoutAnimation`.
+This is a small project for evaluating different languages that can either be run on the web or compiled to JS for adoption in react-native-dom's core. The module being rewritten for this evalutation is `LayoutAnimation`.
 
 ## Implementation Status
 
